@@ -3,7 +3,7 @@ import urllib
 import os
 from urllib import urlretrieve,urlopen
 import random
-name = 5
+name = null
 # Make directory to save images according to search term
 def MakeFolder(directory):
     try:
